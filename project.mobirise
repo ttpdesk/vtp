@@ -49,7 +49,7 @@
     "uniqCompNum": 36,
     "versionPublish": "4.11.4",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/web-marketing-128x128.png",
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -65,7 +65,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/favicon-357x342.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/web%20marketing-600x600.png"
       },
       "components": [
         {
